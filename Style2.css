@@ -1,0 +1,98 @@
+#home {
+    text-align: center;
+    padding: 10px;
+    background-color: #1E90FF;
+    color: WHITE;
+}
+
+#home2 {
+    text-align: center;
+    margin-left: 830px;
+    padding-right: 0;
+    padding-top: 10px;
+}
+
+.big-banner {
+    /* border-style: solid; */
+    width: 100%;
+    background-image: url('Covid.jpeg');
+    background-repeat: repeat-y;
+    height: 100%;
+}
+
+#World {
+    text-align: center;
+    Color: Red;
+    font-size: 50px;
+}
+
+body {
+    font-family: 'Anton', sans-serif;
+}
+
+h5 {
+    font-family: 'Sriracha', cursive;
+}
+
+.statistic {
+    padding: 10px;
+    margin-top: 30px;
+    text-align: center;
+    Color: White;
+}
+
+#total_case_box {
+    padding: 3px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#total_death_box {
+    padding: 3px;
+    margin-top: 10px;
+    text-align: center;
+    background-color: #DC143C;
+}
+
+#total_recovery_box {
+    padding: 3px;
+    margin-top: 10px;
+    text-align: center;
+    background-color: #00FF7F;
+}
+
+#new_case_box {
+    padding: 3px;
+    margin-top: 10px;
+    text-align: center;
+    background-color: #FFFF00;
+}
+
+#new_death_box {
+    padding: 3px;
+    margin-top: 10px;
+    text-align: center;
+    background-color: #FF8C00;
+}
+
+#country_stat {
+    Color: White;
+}
+
+#table {
+    padding: 10px;
+    margin-top: 40px;
+    text-align: center;
+    Color: White;
+}
+
+#thai {
+    margin-top: 100px;
+    Color: White;
+    text-align: center;
+    padding: 10px;
+}
+
+#thailand {
+    background-color: white;
+}
